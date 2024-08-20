@@ -51,7 +51,7 @@ Variables and Memory Management
 -- Pass by Reference versus Pass by Value
 -- How it works in C/C++
 -- What C/C++ taught me about Python
--- Floating point decimals and Decimal
+-- Floating point decimals and Decimal (.2 x 3)
 	
 APIs
 -- REST
