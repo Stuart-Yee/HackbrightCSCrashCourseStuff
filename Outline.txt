@@ -10,11 +10,13 @@ Software Development Practices
 
 Math (eww!)
 -- Functions (represented in Python and in mathematical notation)
+-- Signma Notation
 -- https://www.geeksforgeeks.org/math-symbols/#discrete-mathematics-symbols
 
 Discrete Mathematics 
 -- Truth Tables, and/or, not and if, logical arguments and demorgan's laws
 -- Set Theory (algebraic and set laws)
+-- Bit Arithmetic
 -- Boolean Logic and logic gates
 -- RSA
 -- Graph Theory and circuits
