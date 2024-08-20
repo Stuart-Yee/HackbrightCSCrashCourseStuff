@@ -8,6 +8,15 @@ Software Development Practices
 -- SDLC Software Development Lifecycle
 	DEV => UAT => PROD
 
+Networking and Cybersecurity
+-- 7 Layers of the OSI Model
+-- UDP versus TCP
+-- HTTP and HTTPS
+-- TCP Handshake and SSL Certificate
+-- Tools
+	curl
+	OpenSSL
+
 Math (eww!)
 -- Functions (represented in Python and in mathematical notation)
 -- Signma Notation
@@ -42,15 +51,6 @@ Variables and Memory Management
 -- Pass by Reference versus Pass by Value
 -- How it works in C/C++
 -- What C/C++ taught me about Python
-
-Networking and Cybersecurity
--- 7 Layers of the OSI Model
--- UDP versus TCP
--- HTTP and HTTPS
--- TCP Handshake and SSL Certificate
--- Tools
-	curl
-	OpenSSL
 	
 APIs
 -- REST
