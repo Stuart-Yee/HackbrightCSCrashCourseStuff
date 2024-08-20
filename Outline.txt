@@ -1,0 +1,65 @@
+
+
+Lecture Concepts
+
+Software Development Practices
+-- Using git
+	branch, pull request, code review, merge
+-- SDLC Software Development Lifecycle
+	DEV => UAT => PROD
+
+Math (eww!)
+-- Functions (represented in Python and in mathematical notation)
+
+Discrete Mathematics 
+-- Truth Tables, and/or, not and if, logical arguments and demorgan's laws
+-- Set Theory (algebraic and set laws)
+-- Boolean Logic and logic gates
+-- RSA
+-- Graph Theory and circuits
+-- Proofs, Strong and Weak Mathematical Induction, Sequences
+
+Calculus
+-- Limits
+	Energy/Velocity e approaches infinity as it approaches the speed of light
+-- Derivatives - slope of a curve
+-- Integrals - region under a curve
+-- Machine Learning models
+
+Grokking Algorithms
+-- Search and Sort Algorithms
+-- Hash Functions and Tables
+-- Graph Theory
+	Djiksra's Algorithm
+	Weighted and directional graphs
+	
+
+Variables and Memory Management
+-- Arrays (why do they start at zero)
+-- Pass by Reference versus Pass by Value
+-- How it works in C/C++
+-- What C/C++ taught me about Python
+
+Networking and Cybersecurity
+-- 7 Layers of the OSI Model
+-- UDP versus TCP
+-- HTTP and HTTPS
+-- TCP Handshake and SSL Certificate
+-- Tools
+	curl
+	OpenSSL
+	
+APIs
+-- REST
+-- SOAP
+-- GraphQL
+-- Postman
+
+People in Computer Science History
+-- Ada Lovelace 1815 - 1852
+-- Rear Admiral Grace Hopper 1906 - 1992
+-- Alan Turing 1912 - 1954
+-- Hedy Lamarr 1914 - 2000
+-- Joan Clarke 1917 - 1996
+-- Margaret Hamilton 1936 - 
+-- Jerry Lawson 1940 - 2011
