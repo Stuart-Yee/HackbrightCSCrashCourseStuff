@@ -10,6 +10,7 @@ Software Development Practices
 
 Math (eww!)
 -- Functions (represented in Python and in mathematical notation)
+-- https://www.geeksforgeeks.org/math-symbols/#discrete-mathematics-symbols
 
 Discrete Mathematics 
 -- Truth Tables, and/or, not and if, logical arguments and demorgan's laws
