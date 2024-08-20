@@ -2,6 +2,9 @@
 
 Lecture Concepts
 
+Ethics in Software
+-- Therac 25
+
 Software Development Practices
 -- Using git
 	branch, pull request, code review, merge
