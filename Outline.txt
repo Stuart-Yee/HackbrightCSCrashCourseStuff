@@ -5,11 +5,19 @@ Lecture Concepts
 Software Development Practices
 -- Using git
 	branch, pull request, code review, merge
+	(https://about.gitlab.com/blog/2023/07/27/gitlab-flow-duo/)
 -- SDLC Software Development Lifecycle
 	DEV => UAT => PROD
 
 Math (eww!)
 -- Functions (represented in Python and in mathematical notation)
+
+Calculus
+-- Limits
+	Energy/Velocity e approaches infinity as it approaches the speed of light
+-- Derivatives - slope of a curve
+-- Integrals - region under a curve
+-- Machine Learning models
 
 Discrete Mathematics 
 -- Truth Tables, and/or, not and if, logical arguments and demorgan's laws
@@ -18,13 +26,6 @@ Discrete Mathematics
 -- RSA
 -- Graph Theory and circuits
 -- Proofs, Strong and Weak Mathematical Induction, Sequences
-
-Calculus
--- Limits
-	Energy/Velocity e approaches infinity as it approaches the speed of light
--- Derivatives - slope of a curve
--- Integrals - region under a curve
--- Machine Learning models
 
 Grokking Algorithms
 -- Search and Sort Algorithms
@@ -40,6 +41,12 @@ Variables and Memory Management
 -- How it works in C/C++
 -- What C/C++ taught me about Python
 
+APIs
+-- REST
+-- SOAP
+-- GraphQL
+-- Postman
+
 Networking and Cybersecurity
 -- 7 Layers of the OSI Model
 -- UDP versus TCP
@@ -48,12 +55,7 @@ Networking and Cybersecurity
 -- Tools
 	curl
 	OpenSSL
-	
-APIs
--- REST
--- SOAP
--- GraphQL
--- Postman
+
 
 People in Computer Science History
 -- Ada Lovelace 1815 - 1852
