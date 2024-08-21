@@ -2,6 +2,9 @@
 
 Lecture Concepts
 
+Ethics in Software
+-- Therac 25
+
 Software Development Practices
 -- Using git
 	branch, pull request, code review, merge
@@ -11,6 +14,8 @@ Software Development Practices
 
 Math (eww!)
 -- Functions (represented in Python and in mathematical notation)
+-- Signma Notation
+-- https://www.geeksforgeeks.org/math-symbols/#discrete-mathematics-symbols
 
 Calculus
 -- Limits
@@ -22,6 +27,7 @@ Calculus
 Discrete Mathematics 
 -- Truth Tables, and/or, not and if, logical arguments and demorgan's laws
 -- Set Theory (algebraic and set laws)
+-- Bit Arithmetic
 -- Boolean Logic and logic gates
 -- RSA
 -- Graph Theory and circuits
@@ -40,6 +46,7 @@ Variables and Memory Management
 -- Pass by Reference versus Pass by Value
 -- How it works in C/C++
 -- What C/C++ taught me about Python
+-- Floating point decimals and Decimal (.2 x 3)
 
 APIs
 -- REST
@@ -55,7 +62,6 @@ Networking and Cybersecurity
 -- Tools
 	curl
 	OpenSSL
-
 
 People in Computer Science History
 -- Ada Lovelace 1815 - 1852
