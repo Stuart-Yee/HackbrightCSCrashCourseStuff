@@ -1,5 +1,4 @@
 # HackbrightCSCrashCourseStuff
-Resources and materials for tech talk
 
 Ethics in Software
 
